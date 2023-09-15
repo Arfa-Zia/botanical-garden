@@ -1,2 +1,1 @@
-# botanical-garden
-A website about a garden with flowers
+This is a simple website project about a botanical garden with different types of flowers.
