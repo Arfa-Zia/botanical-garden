@@ -113,7 +113,7 @@ h2{
     font-family: 'Times New Roman', Times, serif;
 }
 #about {
-    height: 350px;
+    height: 400px;
     background-color: rgb(243, 229, 229);
 }
 #about blockquote{
@@ -124,11 +124,11 @@ h2{
     font-size: 2.2rem;
     line-height: 50px;
 }
-i{
-    position: absolute;
-    top: 245%;
-    left: 60%;
-    font-size: 1.5rem;
+.writer{
+    padding-left: 500px;
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 1.8rem;
     font-weight: bold;
     font-style: normal;
 }
